@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Title of the app
-st.title("🚀 My First Streamlit App  after CICD")
+st.title("🚀 My First Streamlit App  after CICD    cicd from    local git push")
 
 # Header and Text
 st.header("Welcome!")
